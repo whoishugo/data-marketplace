@@ -1,0 +1,12 @@
+Field Name,Description,Type,Example
+School Name,"Name of the high school",String,"Phillips Academy Andover"
+Group,"School grouping",String,"Elite Boarding & Day Schools"
+IvyPlus,"Percentage of graduates attending an Ivy League institution, plus Stanford, MIT, Duke, and UChicago",Number,33
+T25,"Percentage of graduates attending a Top 25 National University",Number,55
+T15LAC,"Percentage of graduates attending a Top 15 Liberal Arts College",Number,25
+Top50,"Percentage of graduates attending a Top 50 National University or Top 50 Liberal Arts College",Number,85
+Readiness,"College Readiness Score, on a 10-point scale",Number,10.0
+classSize,"Approximate number of students in a graduating class",Number,340
+topD,"Top 10 university destinations for graduates",String,"[{'n': 'Harvard University', 'c': 18}, ...]"
+ecpi,"Elite College Placement Index score, a weighted and mean-adjusted score from 0-100",Number,96.87
+rank,"Overall rank based on the ECPI score",Number,1

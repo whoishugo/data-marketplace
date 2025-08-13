@@ -1,0 +1,11 @@
+Field Name,Description
+Hotel Name,"Name of the hotel"
+Sub-Region,"Area within LA (e.g., Beverly Hills, Santa Monica)"
+Hotel Group,"The parent company or brand (e.g., Marriott, Hilton)"
+Type,"Category of the hotel (e.g., Luxury, Boutique)"
+Price,"Average price per night in USD"
+Guest Score,"Aggregated guest rating (out of 10)"
+Location,"Location rating (out of 10)"
+Amenities,"Amenities rating (out of 10)"
+HBS,"Hotel Benchmark Score, a composite score from 0-100"
+Rank,"Overall rank based on the HBS"

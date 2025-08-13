@@ -1,0 +1,10 @@
+Field Name,Description,Type,Example
+School Name,"Name of the high school",String,"Sidwell Friends School"
+District,"District or State",String,"District of Columbia"
+T25_T15LAC,"Percentage of graduates attending a Top 25 National University or Top 15 Liberal Arts College",Number,65
+Top50,"Percentage of graduates attending a Top 50 National University or Top 50 Liberal Arts College",Number,85
+Readiness,"College Readiness Score (1-10)",Number,10.0
+classSize,"Approximate number of students in a graduating class",Number,125
+topD,"Top 10 university destinations",String,"[{'n': 'University of Chicago', 'c': 8}, ...]"
+ecpi,"Elite College Placement Index score",Number,94.3
+rank,"Overall rank",Number,1

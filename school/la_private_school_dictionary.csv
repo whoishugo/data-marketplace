@@ -1,0 +1,12 @@
+Field Name,Description,Type,Example
+School Name,"Name of the high school",String,"Harvard-Westlake School"
+Location,"General location or neighborhood",String,"Los Angeles"
+T25,"Percentage of graduates attending a Top 25 National University",Number,45
+T15LAC,"Percentage of graduates attending a Top 15 Liberal Arts College",Number,20
+UC,"Percentage of graduates attending any University of California campus",Number,15
+CSU,"Percentage of graduates attending any California State University campus",Number,2
+Readiness,"College Readiness Score (1-10)",Number,10.0
+classSize,"Approximate number of students in a graduating class",Number,295
+topD,"Top 10 university destinations",String,"[{'n': 'University of Chicago', 'c': 15}, ...]"
+ecpi,"Elite College Placement Index score",Number,92.5
+rank,"Overall rank",Number,1

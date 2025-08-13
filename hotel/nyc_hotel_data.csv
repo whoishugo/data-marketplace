@@ -1,0 +1,51 @@
+Rank,Hotel Name,Sub-Region,Hotel Group,Type,HBS,Rating,Price,Value Score,Guest Score,Location,Amenities
+1,"Aman New York","Midtown Manhattan","Aman","Ultra Luxury",100,5,2500,0,99,99,100
+2,"The Carlyle, A Rosewood Hotel","Upper Manhattan","Rosewood","Iconic Luxury",98.5,5,1300,48,98,99,97
+3,"The Mark Hotel","Upper Manhattan","Independent","Iconic Luxury",98.2,5,1500,40,97,99,98
+4,"The Lowell","Upper Manhattan","Independent","Boutique Luxury",97.9,5,1400,44,99,98,96
+5,"The Plaza, A Fairmont Managed Hotel","Midtown Manhattan","Accor","Iconic Luxury",97.6,5,1500,40,95,100,98
+6,"The St. Regis New York","Midtown Manhattan","Marriott","Iconic Luxury",97.3,5,1400,44,97,99,97
+7,"Park Hyatt New York","Midtown Manhattan","Hyatt","Modern Luxury",97,5,1300,48,96,98,99
+8,"The Peninsula New York","Midtown Manhattan","Peninsula","Luxury",96.7,5,1200,52,98,99,98
+9,"Baccarat Hotel and Residences New York","Midtown Manhattan","SH Hotels & Resorts","Luxury",96.4,5,1600,36,98,98,97
+10,"Mandarin Oriental, New York","Upper Manhattan","Mandarin Oriental","Luxury",96.1,5,1350,46,97,97,99
+11,"The Greenwich Hotel","Downtown Manhattan","Independent","Boutique Luxury",95.8,5,1100,56,98,97,96
+12,"Four Seasons Hotel New York Downtown","Downtown Manhattan","Four Seasons","Luxury",95.5,5,1200,52,97,96,98
+13,"Crosby Street Hotel","Downtown Manhattan","Firmdale","Boutique Luxury",95.2,4.5,950,62,97,98,94
+14,"The Chatwal, a Luxury Collection Hotel","Midtown Manhattan","Marriott","Luxury",94.9,4.5,1100,56,96,97,95
+15,"The Pierre, A Taj Hotel","Upper Manhattan","Taj","Iconic Luxury",94.6,4.5,1200,52,96,100,95
+16,"1 Hotel Brooklyn Bridge","Brooklyn","SH Hotels & Resorts","Luxury",94.3,4.5,900,64,96,98,97
+17,"Lotte New York Palace","Midtown Manhattan","Lotte","Luxury",94,4.5,700,72,90,98,92
+18,"The Bowery Hotel","Downtown Manhattan","Independent","Boutique",93.7,4.5,800,68,95,96,92
+19,"The William Vale","Brooklyn","Independent","Boutique",93.4,4.5,800,68,94,96,95
+20,"The Ludlow Hotel","Downtown Manhattan","Independent","Boutique",93.1,4.5,750,70,94,95,91
+21,"The Beekman, a Thompson Hotel","Downtown Manhattan","Hyatt","Historic Boutique",92.8,4.5,700,72,93,95,90
+22,"JW Marriott Essex House New York","Upper Manhattan","Marriott","Luxury",92.5,4.5,800,68,91,100,92
+23,"The Wythe Hotel","Brooklyn","Independent","Boutique",92.2,4.5,650,74,93,95,91
+24,"The Hoxton, Williamsburg","Brooklyn","Ennismore","Boutique",91.9,4.5,550,78,92,95,90
+25,"The Surrey","Upper Manhattan","Corinthia","Luxury",91.6,4.5,950,62,94,98,93
+26,"ModernHaus SoHo","Downtown Manhattan","Independent","Boutique",91.3,4,650,74,90,98,89
+27,"The Dominick","Downtown Manhattan","Independent","Luxury",91,4,850,66,92,97,93
+28,"Gansevoort Meatpacking","Downtown Manhattan","Independent","Boutique",90.7,4,780,69,91,96,92
+29,"Thompson Central Park New York","Midtown Manhattan","Hyatt","Boutique",90.4,4,650,74,91,98,89
+30,"Arlo Williamsburg","Brooklyn","Arlo","Boutique",90.1,4,500,80,90,94,89
+31,"The Wall Street Hotel","Downtown Manhattan","Independent","Luxury",89.8,4,680,73,93,94,91
+32,"citizenM New York Bowery","Downtown Manhattan","citizenM","Boutique",89.5,4,380,85,90,95,84
+33,"Conrad New York Downtown","Downtown Manhattan","Hilton","Luxury",89.2,4,620,75,91,93,90
+34,"Loews Regency New York Hotel","Upper Manhattan","Loews","Luxury",88.9,4,750,70,90,97,90
+35,"New York Marriott at the Brooklyn Bridge","Brooklyn","Marriott","Business",88.6,4,480,81,86,92,88
+36,"The Williamsburg Hotel","Brooklyn","Independent","Boutique",88.3,4,600,76,91,96,90
+37,"Ace Hotel Brooklyn","Brooklyn","Ace Hotel Group","Boutique",88,4,420,83,90,90,87
+38,"Moxy Times Square","Midtown Manhattan","Marriott","Boutique",87.7,4,350,87,86,100,85
+39,"The Wallace","Upper Manhattan","Independent","Boutique",87.4,4,600,76,95,92,88
+40,"NU Hotel","Brooklyn","Independent","Boutique",87.1,3.5,350,87,87,91,83
+41,"Pod Brooklyn","Brooklyn","Pod","Value",86.8,3.5,250,90,85,93,78
+42,"TWA Hotel at JFK Airport","Other NYC Areas","Independent","Airport",86.5,4,400,84,90,88,92
+43,"Renaissance New York Flushing Hotel at Tangram","Other NYC Areas","Marriott","Business",86.2,4,380,85,91,85,89
+44,"The Collective Paper Factory","Other NYC Areas","Independent","Boutique",85.9,4,320,88,88,86,84
+45,"Boro Hotel","Other NYC Areas","Independent","Boutique",85.6,4,350,87,89,87,85
+46,"Hyatt Place Long Island City/New York City","Other NYC Areas","Hyatt","Business",85.3,3.5,300,89,86,88,82
+47,"Aloft Long Island City-Manhattan View","Other NYC Areas","Marriott","Business",85,3.5,280,90,84,88,81
+48,"The Rockaway Hotel","Other NYC Areas","Independent","Resort",84.7,4,450,82,90,82,88
+49,"The High Line Hotel","Other NYC Areas","Independent","Historic Boutique",84.4,4,550,78,92,94,87
+50,"The Maritime Hotel","Other NYC Areas","Independent","Boutique",84.1,4,580,77,90,95,88

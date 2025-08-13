@@ -1,0 +1,51 @@
+Rank,Hotel Name,Sub-Region,Hotel Group,Type,HBS,Rating,Price,Value Score,Guest Score,Location,Amenities
+1,"The Beverly Hills Hotel","Beverly Hills & West Hollywood","Dorchester Collection","Luxury",100,5,1200,14,98,98,97
+2,"Hotel Bel-Air","Beverly Hills & West Hollywood","Dorchester Collection","Luxury",99.8,5,1300,7,99,96,98
+3,"Waldorf Astoria Beverly Hills","Beverly Hills & West Hollywood","Hilton","Luxury",99.2,5,1100,21,97,99,99
+4,"The Peninsula Beverly Hills","Beverly Hills & West Hollywood","Peninsula","Luxury",98.5,5,1150,18,99,98,98
+5,"Shutters on the Beach","Santa Monica","ETC Hotels","Coastal Luxury",98.2,5,950,32,97,99,95
+6,"Hotel Casa del Mar","Santa Monica","ETC Hotels","Coastal Luxury",97.6,5,900,36,96,99,94
+7,"The Langham Huntington, Pasadena","Other LA Areas","Langham","Historic Luxury",97,4.5,680,55,95,91,94
+8,"Terranea Resort","Other LA Areas","Independent","Luxury Resort",96.4,4.5,850,40,96,92,97
+9,"Fairmont Miramar Hotel & Bungalows","Santa Monica","Accor","Luxury Resort",95.8,4.5,850,40,93,98,96
+10,"Santa Monica Proper Hotel","Santa Monica","Proper Hotels","Luxury",95.2,4.5,880,37,95,96,94
+11,"L'Ermitage Beverly Hills","Beverly Hills & West Hollywood","Independent","Luxury",94.6,4.5,900,36,96,97,95
+12,"Four Seasons Hotel Los Angeles at Beverly Hills","Beverly Hills & West Hollywood","Four Seasons","Luxury",94.1,4.5,980,30,96,95,96
+13,"The Ritz-Carlton, Los Angeles","Downtown Los Angeles (DTLA)","Marriott","Luxury",93.5,4.5,780,45,94,98,95
+14,"Conrad Los Angeles","Downtown Los Angeles (DTLA)","Hilton","Luxury",93.2,4.5,650,55,95,94,93
+15,"The London West Hollywood","Beverly Hills & West Hollywood","Hilton","Luxury",92.9,4.5,700,50,94,96,93
+16,"1 Hotel West Hollywood","Beverly Hills & West Hollywood","SH Hotels & Resorts","Luxury",92.6,4.5,750,47,95,97,94
+17,"SLS Hotel, a Luxury Collection Hotel, Beverly Hills","Beverly Hills & West Hollywood","Marriott","Luxury",92.3,4.5,720,49,93,94,93
+18,"Fairmont Century Plaza","Beverly Hills & West Hollywood","Accor","Luxury",92.1,4.5,650,55,91,95,92
+19,"Chateau Marmont","Beverly Hills & West Hollywood","Independent","Historic Luxury",91.8,4,850,40,92,95,90
+20,"Thompson Hollywood","Hollywood","Hyatt","Boutique",91.6,4.5,550,64,92,96,91
+21,"Dream Hollywood","Hollywood","Hyatt","Boutique",91.4,4.5,520,66,91,96,92
+22,"Shade Hotel Manhattan Beach","Other LA Areas","Zislis Group","Boutique",91.2,4.5,580,61,93,95,90
+23,"The Portofino Hotel & Marina","Other LA Areas","Noble House","Boutique",91,4,520,66,90,94,89
+24,"Loews Santa Monica Beach Hotel","Santa Monica","Loews","Family-Friendly",90.8,4,750,47,91,98,92
+25,"The Beverly Hilton","Beverly Hills & West Hollywood","Hilton","Luxury",90.6,4,600,59,89,97,91
+26,"W Hollywood","Hollywood","Marriott","Boutique",90.4,4,530,65,89,97,90
+27,"Viceroy Santa Monica","Santa Monica","Viceroy","Boutique",90.2,4,680,52,90,97,90
+28,"Huntley Santa Monica Beach","Santa Monica","Independent","Boutique",90,4,720,49,92,97,89
+29,"Loews Hollywood Hotel","Hollywood","Loews","Family-Friendly",89.8,4,490,69,88,98,89
+30,"Kimpton Everly Hotel","Hollywood","IHG","Boutique",89.6,4,440,74,91,95,89
+31,"The Godfrey Hotel Hollywood","Hollywood","Independent","Boutique",89.4,4,470,71,90,93,88
+32,"Hollywood Roosevelt","Hollywood","Thompson","Historic",89.2,4,500,68,88,97,90
+33,"JW Marriott Los Angeles L.A. LIVE","Downtown Los Angeles (DTLA)","Marriott","Business",89,4,550,64,88,98,93
+34,"InterContinental Los Angeles Downtown","Downtown Los Angeles (DTLA)","IHG","Business",88.8,4,580,61,90,96,94
+35,"Hotel Per La, Autograph Collection","Downtown Los Angeles (DTLA)","Marriott","Boutique",88.6,4,480,70,92,93,90
+36,"The Hoxton, Downtown LA","Downtown Los Angeles (DTLA)","Ennismore","Boutique",88.4,4,420,76,91,93,89
+37,"Ace Hotel Downtown Los Angeles","Downtown Los Angeles (DTLA)","Ace Hotel Group","Boutique",88.2,4,450,73,90,92,88
+38,"Hotel Figueroa","Downtown Los Angeles (DTLA)","Hyatt","Historic Boutique",88,4,380,80,89,94,87
+39,"The Garland","Other LA Areas","Independent","Boutique",87.8,4,420,76,90,89,88
+40,"Hotel June","Other LA Areas","Proper Hospitality","Boutique",87.6,4,380,80,89,88,86
+41,"Marina Del Rey Hotel","Other LA Areas","Pacifica Hotels","Boutique",87.4,4,450,73,88,93,87
+42,"Shore Hotel","Santa Monica","Independent","Boutique",87.2,4,550,64,89,98,85
+43,"The Georgian Hotel","Santa Monica","Independent","Historic",87,4,650,55,88,98,87
+44,"Millennium Biltmore Hotel","Downtown Los Angeles (DTLA)","Millennium","Historic",86.8,4,320,86,85,95,85
+45,"The Westin Bonaventure Hotel & Suites, Los Angeles","Downtown Los Angeles (DTLA)","Marriott","Business",86.6,4,390,79,84,95,88
+46,"Le Meridien Delfina Santa Monica","Santa Monica","Marriott","Business",86.4,4,480,70,86,92,86
+47,"Hilton Los Angeles/Universal City","Hollywood","Hilton","Family-Friendly",86.2,4,480,70,87,94,89
+48,"Sheraton Universal Hotel","Hollywood","Marriott","Family-Friendly",86,4,460,72,86,94,88
+49,"Mama Shelter Los Angeles","Hollywood","Accor","Boutique",85.8,4,350,83,88,92,84
+50,"Freehand Los Angeles","Downtown Los Angeles (DTLA)","Freehand","Hostel",85.6,3.5,120,100,87,91,80

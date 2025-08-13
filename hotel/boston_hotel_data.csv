@@ -1,0 +1,51 @@
+Rank,Hotel Name,Sub-Region,Hotel Group,Type,HBS,Rating,Price,Value Score,Guest Score,Location,Amenities
+1,"Raffles Boston","Back Bay","Accor","Luxury",100,5,1100,0,100,100,100
+2,"Boston Harbor Hotel","Downtown & Financial District","Independent","Waterfront Luxury",98.4,5,950,15,97,97,96
+3,"Four Seasons Hotel One Dalton Street, Boston","Back Bay","Four Seasons","Luxury",97.9,5,1050,5,97,94,98
+4,"The Newbury Boston","Other Boston Neighborhoods","Highgate","Luxury",97.7,5,980,12,97,100,96
+5,"Mandarin Oriental, Boston","Back Bay","Mandarin Oriental","Luxury",96.7,5,1000,10,96,97,97
+6,"The Langham, Boston","Downtown & Financial District","Langham","Historic Luxury",95.9,4.5,850,25,96,94,95
+7,"XV Beacon","Other Boston Neighborhoods","Independent","Boutique Luxury",95.4,4.5,880,22,96,97,93
+8,"The Eliot Hotel","Back Bay","Independent","Boutique",94.6,4.5,680,42,95,94,90
+9,"The Lenox Hotel","Back Bay","Independent","Boutique",94.1,4.5,650,45,94,97,91
+10,"The Whitney Hotel Beacon Hill","Other Boston Neighborhoods","Independent","Boutique",93.9,4.5,720,38,96,94,91
+11,"Fairmont Copley Plaza","Back Bay","Accor","Historic Luxury",93.7,4.5,700,40,92,100,93
+12,"The Liberty, a Luxury Collection Hotel","Other Boston Neighborhoods","Marriott","Historic Luxury",93.5,4.5,750,35,95,91,94
+13,"The Charles Hotel, Harvard Square","Cambridge & Charles River","Independent","Boutique",93.3,4.5,700,40,94,97,92
+14,"Omni Boston Hotel at the Seaport","Seaport District","Omni","Convention",92.9,4.5,600,50,91,88,95
+15,"The Envoy Hotel, Autograph Collection","Seaport District","Marriott","Boutique",92.6,4.5,680,42,93,91,92
+16,"Hotel Commonwealth","Other Boston Neighborhoods","Independent","Luxury",92.4,4.5,600,50,93,82,90
+17,"The Godfrey Hotel Boston","Downtown & Financial District","Independent","Boutique",91.9,4.5,520,58,92,97,88
+18,"Kimpton Marlowe Hotel","Cambridge & Charles River","IHG","Boutique",91.7,4.5,560,54,92,85,90
+19,"The Dagny Boston","Downtown & Financial District","Independent","Boutique",91.5,4.5,530,57,91,94,89
+20,"The Verb Hotel","Other Boston Neighborhoods","Independent","Boutique",91.3,4.5,450,65,91,79,86
+21,"Royal Sonesta Boston","Cambridge & Charles River","Sonesta","Family-Friendly",91.1,4,580,52,90,82,91
+22,"Seaport Hotel & World Trade Center","Seaport District","Independent","Convention",90.9,4,520,58,90,85,90
+23,"Marriott Long Wharf","Downtown & Financial District","Marriott","Waterfront",90.7,4,600,50,90,100,90
+24,"The Westin Boston Seaport District","Seaport District","Marriott","Convention",90.5,4,550,55,88,85,91
+25,"The Colonnade Hotel","Back Bay","Independent","Boutique",90.3,4,550,55,89,91,92
+26,"Omni Parker House","Downtown & Financial District","Omni","Historic",90.1,4,500,60,88,100,89
+27,"Hyatt Regency Cambridge, Overlooking Boston","Cambridge & Charles River","Hyatt","Business",89.9,4,550,55,88,79,89
+28,"Boston Marriott Cambridge","Cambridge & Charles River","Marriott","Business",89.7,4,520,58,87,88,88
+29,"The Westin Copley Place, Boston","Back Bay","Marriott","Business",89.5,4,500,60,87,97,89
+30,"Boston Marriott Copley Place","Back Bay","Marriott","Business",89.3,4,480,62,86,97,88
+31,"Sheraton Boston Hotel","Back Bay","Marriott","Business",89.1,4,450,65,85,88,88
+32,"Hyatt Regency Boston","Downtown & Financial District","Hyatt","Business",88.9,4,480,62,87,97,87
+33,"Hilton Boston Downtown/Faneuil Hall","Downtown & Financial District","Hilton","Business",88.7,4,470,63,86,100,86
+34,"Bostonian Boston","Downtown & Financial District","Millennium","Boutique",88.5,4,490,61,87,100,85
+35,"The Kendall Hotel","Cambridge & Charles River","Independent","Boutique",88.3,4,450,65,93,91,85
+36,"YOTEL Boston","Seaport District","YOTEL","Boutique",88.1,4,350,75,89,88,82
+37,"Le Méridien Boston Cambridge","Cambridge & Charles River","Marriott","Business",87.9,4,530,57,89,88,87
+38,"Hyatt Place Boston/Seaport District","Seaport District","Hyatt","Business",87.7,4,400,70,87,82,85
+39,"Hampton Inn Boston Seaport","Seaport District","Hilton","Business",87.5,4,380,72,86,82,84
+40,"Homewood Suites by Hilton Boston Seaport","Seaport District","Hilton","Extended Stay",87.3,4,410,69,87,82,86
+41,"Aloft Boston Seaport District","Seaport District","Marriott","Boutique",87.1,4,390,71,85,79,83
+42,"Element Boston Seaport District","Seaport District","Marriott","Extended Stay",86.9,4,420,68,86,79,85
+43,"Residence Inn by Marriott Boston Cambridge","Cambridge & Charles River","Marriott","Extended Stay",86.7,4,480,62,88,85,88
+44,"Hyatt Place Boston/Cambridge","Cambridge & Charles River","Hyatt","Business",86.5,4,430,67,87,76,84
+45,"Courtyard by Marriott Boston Cambridge","Cambridge & Charles River","Marriott","Business",86.3,4,400,70,85,73,82
+46,"Club Quarters Hotel Faneuil Hall, Boston","Downtown & Financial District","Club Quarters","Business",86.1,4,350,75,85,97,81
+47,"Courtyard by Marriott Boston Copley Square","Back Bay","Marriott","Business",85.9,4,350,75,84,94,80
+48,"The Boxer Boston","Other Boston Neighborhoods","Independent","Boutique",85.7,4,490,61,89,85,85
+49,"The Revolution Hotel","Other Boston Neighborhoods","Independent","Boutique",85.5,4,250,85,88,73,78
+50,"Encore Boston Harbor","Other Boston Neighborhoods","Wynn Resorts","Casino Resort",85.3,4.5,650,45,92,54,98

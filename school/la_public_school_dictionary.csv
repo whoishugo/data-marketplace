@@ -1,0 +1,12 @@
+Field Name,Description,Type,Example
+School Name,"Name of the high school",String,"Whitney High School"
+District,"School district the high school belongs to",String,"ABC Unified"
+T25,"Percentage of graduates attending a Top 25 National University",Number,20
+T15LAC,"Percentage of graduates attending a Top 15 Liberal Arts College",Number,10
+UC,"Percentage of graduates attending any University of California campus",Number,50
+CSU,"Percentage of graduates attending any California State University campus",Number,20
+Readiness,"College Readiness Score (1-10)",Number,9.8
+classSize,"Approximate number of students in a graduating class",Number,150
+topD,"Top 10 university destinations",String,"[{'n': 'UC Berkeley', 'c': 15}, ...]"
+ecpi,"Elite College Placement Index score",Number,85.5
+rank,"Overall rank",Number,1

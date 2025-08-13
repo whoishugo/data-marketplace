@@ -1,0 +1,12 @@
+Field Name,Description,Type,Example
+School Name,"Name of the high school",String,"Stuyvesant High School"
+District,"Borough",String,"Manhattan"
+T25,"Percentage of graduates attending a Top 25 National University",Number,45
+T15LAC,"Percentage of graduates attending a Top 15 Liberal Arts College",Number,14
+CUNY4,"Percentage of graduates attending a CUNY 4-Year College",Number,15
+SUNY4,"Percentage of graduates attending a SUNY 4-Year College",Number,18
+Readiness,"College Readiness Score (1-10)",Number,9.9
+classSize,"Approximate number of students in a graduating class",Number,850
+topD,"Top 10 university destinations",String,"[{'n': 'NYU', 'c': 78}, ...]"
+ecpi,"Elite College Placement Index score",Number,95.8
+rank,"Overall rank",Number,1
